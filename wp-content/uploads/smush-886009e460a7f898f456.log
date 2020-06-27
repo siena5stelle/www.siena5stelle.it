@@ -1,0 +1,146 @@
+[2020-06-27 13:44:13 : INFO] - Re_Smush_It_Task server status: Online 
+[2020-06-27 13:44:13 : INFO] - 
+ 
+[2020-06-27 13:44:13 : INFO] - Header for logs at time:  Sat, 27 Jun 2020 13:44:13 +0000 on http://localhost 
+[2020-06-27 13:44:13 : INFO] - WP: 5.4.2 
+[2020-06-27 13:44:13 : INFO] - PHP: 7.2.24-0ubuntu0.18.04.6 (apache2handler, Linux michele-Inspiron-7348 5.3.0-61-generic #55~18.04.1-Ubuntu SMP Mon Jun 22 16:40:20 UTC 2020 x86_64) 
+[2020-06-27 13:44:13 : INFO] - MySQL: 5.7.30 
+[2020-06-27 13:44:13 : INFO] - WPLANG: it_IT 
+[2020-06-27 13:44:13 : INFO] - Server: Apache/2.4.29 (Ubuntu) 
+[2020-06-27 13:44:13 : INFO] - Outbound connections: N 
+[2020-06-27 13:44:13 : INFO] - safe_mode: 0 
+[2020-06-27 13:44:13 : INFO] - max_execution_time: 30 
+[2020-06-27 13:44:13 : INFO] - memory_limit: 128M (used: 9.4M | 4M) 
+[2020-06-27 13:44:13 : INFO] - multisite: N 
+[2020-06-27 13:44:13 : INFO] - openssl: OpenSSL 1.1.1  11 Sep 2018 
+[2020-06-27 13:44:14 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2020-06-27 13:44:14 : INFO] - Set semaphore last lock (smush) time to 2020-06-27 13:44:14 
+[2020-06-27 13:44:14 : INFO] - Semaphore lock (smush) complete 
+[2020-06-27 13:44:14 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2020-06-27 13:44:14 : INFO] - Re_Smush_It_Task - Attachment ID : 38562, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:14 : INFO] - 100 
+[2020-06-27 13:44:15 : INFO] - Backing up the original image - 2019/09/cropped-siena5stelle-2-updraft-pre-smush-original.jpg 
+[2020-06-27 13:44:15 : INFO] - Re_Smush_It_Task - Attachment ID : 38562, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:15 : INFO] - 100 
+[2020-06-27 13:44:15 : INFO] - Re_Smush_It_Task - Attachment ID : 38562, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:15 : INFO] - 100 
+[2020-06-27 13:44:16 : INFO] - Re_Smush_It_Task - Attachment ID : 38562, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:16 : INFO] - 100 
+[2020-06-27 13:44:16 : INFO] - Re_Smush_It_Task - Attachment ID : 38562, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:16 : INFO] - 100 
+[2020-06-27 13:44:16 : INFO] - Re_Smush_It_Task - Attachment ID : 38562, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:16 : INFO] - 100 
+[2020-06-27 13:44:17 : INFO] - Re_Smush_It_Task - Attachment ID : 38562, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:17 : INFO] - 100 
+[2020-06-27 13:44:17 : INFO] - Re_Smush_It_Task - Attachment ID : 38562, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:17 : INFO] - 100 
+[2020-06-27 13:44:18 : INFO] - Re_Smush_It_Task - Attachment ID : 38562, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:18 : INFO] - 100 
+[2020-06-27 13:44:18 : INFO] - Successfully optimized the image - /home/web/www.siena5stelle.it/www/wp-content/uploads/2019/09/cropped-siena5stelle-2.jpg.The file was compressed from 27.23 KB to 27.23 KB saving 0 percent using WP-Optimize 
+[2020-06-27 13:44:18 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2020-06-27 13:44:18 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2020-06-27 13:44:18 : INFO] - Re_Smush_It_Task - Attachment ID : 38561, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:18 : INFO] - 100 
+[2020-06-27 13:44:22 : INFO] - Backing up the original image - 2019/09/siena5stelle-updraft-pre-smush-original.jpg 
+[2020-06-27 13:44:22 : INFO] - Re_Smush_It_Task - Attachment ID : 38561, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:22 : INFO] - 100 
+[2020-06-27 13:44:23 : INFO] - Re_Smush_It_Task - Attachment ID : 38561, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:23 : INFO] - 100 
+[2020-06-27 13:44:24 : INFO] - Re_Smush_It_Task - Attachment ID : 38561, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:24 : INFO] - 100 
+[2020-06-27 13:44:25 : INFO] - Re_Smush_It_Task - Attachment ID : 38561, Started on : June 27, 2020 01:44:13 
+[2020-06-27 13:44:25 : INFO] - 100 
+[2020-06-27 13:44:25 : INFO] - Successfully optimized the image - /home/web/www.siena5stelle.it/www/wp-content/uploads/2019/09/siena5stelle.jpg.The file was compressed from 300.91 KB to 300.91 KB saving 0 percent using WP-Optimize 
+[2020-06-27 13:44:25 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2020-06-27 13:44:25 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2020-06-27 13:44:25 : INFO] - Re_Smush_It_Task - Attachment ID : 38560, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:25 : INFO] - 100 
+[2020-06-27 13:44:26 : INFO] - Backing up the original image - 2019/09/cropped-siena5stelle-1-updraft-pre-smush-original.jpg 
+[2020-06-27 13:44:26 : INFO] - Re_Smush_It_Task - Attachment ID : 38560, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:26 : INFO] - 100 
+[2020-06-27 13:44:26 : INFO] - Re_Smush_It_Task - Attachment ID : 38560, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:26 : INFO] - 100 
+[2020-06-27 13:44:27 : INFO] - Re_Smush_It_Task - Attachment ID : 38560, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:27 : INFO] - 100 
+[2020-06-27 13:44:27 : INFO] - Re_Smush_It_Task - Attachment ID : 38560, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:27 : INFO] - 100 
+[2020-06-27 13:44:28 : INFO] - Re_Smush_It_Task - Attachment ID : 38560, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:28 : INFO] - 100 
+[2020-06-27 13:44:28 : INFO] - Re_Smush_It_Task - Attachment ID : 38560, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:28 : INFO] - 100 
+[2020-06-27 13:44:29 : INFO] - Re_Smush_It_Task - Attachment ID : 38560, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:29 : INFO] - 100 
+[2020-06-27 13:44:29 : INFO] - Re_Smush_It_Task - Attachment ID : 38560, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:29 : INFO] - 100 
+[2020-06-27 13:44:29 : INFO] - Successfully optimized the image - /home/web/www.siena5stelle.it/www/wp-content/uploads/2019/09/cropped-siena5stelle-1.jpg.The file was compressed from 38.68 KB to 37.20 KB saving 3.83 percent using WP-Optimize 
+[2020-06-27 13:44:29 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2020-06-27 13:44:29 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2020-06-27 13:44:30 : INFO] - Re_Smush_It_Task - Attachment ID : 38553, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:30 : INFO] - 100 
+[2020-06-27 13:44:30 : INFO] - Backing up the original image - 2019/09/cropped-sienabw-updraft-pre-smush-original.jpg 
+[2020-06-27 13:44:30 : INFO] - Re_Smush_It_Task - Attachment ID : 38553, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:30 : INFO] - 100 
+[2020-06-27 13:44:31 : INFO] - Re_Smush_It_Task - Attachment ID : 38553, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:31 : INFO] - 100 
+[2020-06-27 13:44:31 : INFO] - Re_Smush_It_Task - Attachment ID : 38553, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:31 : INFO] - 100 
+[2020-06-27 13:44:32 : INFO] - Re_Smush_It_Task - Attachment ID : 38553, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:32 : INFO] - 100 
+[2020-06-27 13:44:32 : INFO] - Re_Smush_It_Task - Attachment ID : 38553, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:32 : INFO] - 100 
+[2020-06-27 13:44:33 : INFO] - Re_Smush_It_Task - Attachment ID : 38553, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:33 : INFO] - 100 
+[2020-06-27 13:44:33 : INFO] - Re_Smush_It_Task - Attachment ID : 38553, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:33 : INFO] - 100 
+[2020-06-27 13:44:34 : INFO] - Re_Smush_It_Task - Attachment ID : 38553, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:34 : INFO] - 100 
+[2020-06-27 13:44:34 : INFO] - Successfully optimized the image - /home/web/www.siena5stelle.it/www/wp-content/uploads/2019/09/cropped-sienabw.jpg.The file was compressed from 30.36 KB to 29.69 KB saving 2.2 percent using WP-Optimize 
+[2020-06-27 13:44:34 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2020-06-27 13:44:35 : INFO] - Set semaphore last lock (smush) time to 2020-06-27 13:44:35 
+[2020-06-27 13:44:35 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2020-06-27 13:44:35 : INFO] - Re_Smush_It_Task - Attachment ID : 38551, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:35 : INFO] - 100 
+[2020-06-27 13:44:35 : INFO] - Backing up the original image - 2019/09/cropped-siena5stelle-updraft-pre-smush-original.jpg 
+[2020-06-27 13:44:35 : INFO] - Re_Smush_It_Task - Attachment ID : 38551, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:35 : INFO] - 100 
+[2020-06-27 13:44:36 : INFO] - Re_Smush_It_Task - Attachment ID : 38551, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:36 : INFO] - 100 
+[2020-06-27 13:44:36 : INFO] - Re_Smush_It_Task - Attachment ID : 38551, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:36 : INFO] - 100 
+[2020-06-27 13:44:37 : INFO] - Re_Smush_It_Task - Attachment ID : 38551, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:37 : INFO] - 100 
+[2020-06-27 13:44:38 : INFO] - Re_Smush_It_Task - Attachment ID : 38551, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:38 : INFO] - 100 
+[2020-06-27 13:44:38 : INFO] - Re_Smush_It_Task - Attachment ID : 38551, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:38 : INFO] - 100 
+[2020-06-27 13:44:39 : INFO] - Re_Smush_It_Task - Attachment ID : 38551, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:39 : INFO] - 100 
+[2020-06-27 13:44:40 : INFO] - Re_Smush_It_Task - Attachment ID : 38551, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:40 : INFO] - 100 
+[2020-06-27 13:44:40 : INFO] - Successfully optimized the image - /home/web/www.siena5stelle.it/www/wp-content/uploads/2019/09/cropped-siena5stelle.jpg.The file was compressed from 52.50 KB to 51.16 KB saving 2.54 percent using WP-Optimize 
+[2020-06-27 13:44:40 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2020-06-27 13:44:40 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2020-06-27 13:44:40 : INFO] - Re_Smush_It_Task - Attachment ID : 38548, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:40 : INFO] - 100 
+[2020-06-27 13:44:41 : INFO] - Backing up the original image - 2018/07/cropped-default-updraft-pre-smush-original.jpg 
+[2020-06-27 13:44:41 : INFO] - Re_Smush_It_Task - Attachment ID : 38548, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:41 : INFO] - 100 
+[2020-06-27 13:44:41 : INFO] - Re_Smush_It_Task - Attachment ID : 38548, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:41 : INFO] - 100 
+[2020-06-27 13:44:41 : INFO] - Re_Smush_It_Task - Attachment ID : 38548, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:41 : INFO] - 100 
+[2020-06-27 13:44:42 : INFO] - Re_Smush_It_Task - Attachment ID : 38548, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:42 : INFO] - 100 
+[2020-06-27 13:44:42 : INFO] - Re_Smush_It_Task - Attachment ID : 38548, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:42 : INFO] - 100 
+[2020-06-27 13:44:43 : INFO] - Re_Smush_It_Task - Attachment ID : 38548, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:43 : INFO] - 100 
+[2020-06-27 13:44:43 : INFO] - Re_Smush_It_Task - Attachment ID : 38548, Started on : June 27, 2020 01:44:14 
+[2020-06-27 13:44:43 : INFO] - 100 
+[2020-06-27 13:44:44 : INFO] - Successfully optimized the image - /home/web/www.siena5stelle.it/www/wp-content/uploads/2018/07/cropped-default.jpg.The file was compressed from 25.77 KB to 23.62 KB saving 8.32 percent using WP-Optimize 
+[2020-06-27 13:44:44 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2020-06-27 13:44:44 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-06-27 13:44:44 : INFO] - Semaphore (smush) unlocked 
+[2020-06-27 13:44:44 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2020-06-27 13:44:44 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-06-27 13:44:44 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
